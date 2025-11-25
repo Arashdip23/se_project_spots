@@ -22,4 +22,10 @@ Spots, an interactive image-sharing application. Users will be able to add and r
 
 **Deployment Link**
 
+This webpage is deployed to Github Pages, here is the link:
 (https://arashdip23.github.io/se_project_spots)
+
+**Pitch Video**
+
+Here is the link to a video of me describing my project:
+(https://www.loom.com/share/a4e8924679244e7ca107c9c58da6c18a)
