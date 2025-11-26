@@ -74,6 +74,11 @@
   border: none;
   border-radius: 8px;
   color: #fcf5e5;
+  cursor: pointer;
+}
+
+.prfile__add-btn:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 627px) {
